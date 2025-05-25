@@ -1,0 +1,11 @@
+site_name: Notas Musicais
+repo_url: https://github.com/matheus-conrado/musical-notes
+repo_name: matheus-conrado/musical-notes
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: pt-BR
+
+markdown_extensions:
+  - attr_list
